@@ -1,0 +1,6 @@
+Question,Choices,Correct
+Which subfield of AI grew out of the quest for artificial intelligence?,a: Machine learning | b: Data mining | c: Neural networks | d: Probabilistic reasoning,a
+What caused a rift between AI and machine learning?,"a: Increasing emphasis on the logical, knowledge-based approach | b: The dominance of expert systems | c: Theoretical and practical problems of data acquisition and representation | d: Abandonment of neural networks research",a
+"Machine learning shifted its focus away from the symbolic approaches inherited from AI, and towards methods and models borrowed from ______, fuzzy logic, and probability theory.",a: statistics | b: neural networks | c: machine learning | d: data mining,a
+What is the principal goal of statistics?,a: To draw population inferences from a sample | b: To find generalizable predictive patterns | c: To minimize the loss on unseen samples | d: To detect underlying patterns in the data,a
+"Machine learning is not built on a pre-structured model; rather, the data shape the model by detecting ________ patterns.",a: random | b: hidden | c: underlying | d: predictive,c
